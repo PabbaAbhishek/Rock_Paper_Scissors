@@ -5,4 +5,4 @@ As you run the file, the game starts and you need to beat the Computer Ji
 # Prerequisites
 *Python
 # Computer Ji: "No one can beat me"
-Try beating the arrogant yet mighty **Computer Ji**
+Try beating the arrogant, yet mighty **Computer Ji**
